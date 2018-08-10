@@ -4,9 +4,9 @@ Shell script to install a [Wealthsilo Masternode](https://wealthsil.io/) on a Li
 ***
 ## Installation:
 ```
-git clone https://github.com/dividendcash/masternodeinstall.git
+git clone https://github.com/pelermu/masternodeinstall.git
 cd masternodeinstall
-bash dvd.sh
+bash wsilo.sh
 ```
 ***
 
