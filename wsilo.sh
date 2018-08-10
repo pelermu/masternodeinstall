@@ -1,12 +1,12 @@
 #!/bin/bash
 
-CONFIG_FILE='dividendcash.conf'
+CONFIG_FILE='wealthsilo.conf'
 CONFIGFOLDER='/root/.dividendcash'
-COIN_DAEMON='/usr/local/bin/dividendcashd'
-COIN_CLI='/usr/local/bin/dividendcash-cli'
+COIN_DAEMON='/usr/local/bin/wealthsilod'
+COIN_CLI='/usr/local/bin/wealthsilo-cli'
 COIN_REPO='https://github.com/dividendcash/dividendcash/releases/download/v1.0.0.0/dividendcash-1.0.0-x86_64-linux-gnu.tar.gz'
-COIN_NAME='DividendCash'
-COIN_PORT=29997
+COIN_NAME='Welthsilo'
+COIN_PORT=5595
 
 NODEIP=$(curl -s4 icanhazip.com)
 
