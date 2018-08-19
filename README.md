@@ -38,7 +38,7 @@ startmasternode alias false MN1
 ```
 ***
 
-## Usage:
+## Usage:Fakiu
 ```
 dividendcash-cli getinfo
 dividendcash-cli mnsync status
